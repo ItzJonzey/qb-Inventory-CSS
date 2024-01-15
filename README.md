@@ -1,9 +1,14 @@
+# ItzJonzey
+· Here is our CSS reedit of QB-Core's inventory. It is customized for our server.<br>
+· Also it is translated into ~~Czech~~  (Czech is in older commits).<br>
+· Now it is default qb-inv with CSS edit.<br>
+
 # qb-inventory
 
 ### License
 
     QBCore Framework
-    Copyright (C) 2024 Shane Jones
+    Copyright (C) 2021 Shane Jones
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -18,8 +23,6 @@
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>
 
-
-
 ## Dependencies
 - [qb-core](https://github.com/qbcore-framework/qb-core)
 - [qb-logs](https://github.com/qbcore-framework/qb-logs) - For logging transfer and other history
@@ -28,8 +31,8 @@
 - [qb-drugs](https://github.com/qbcore-framework/qb-drugs) -  Drugs and Weed Planting System
 - [qb-shops](https://github.com/qbcore-framework/qb-shops) - Needed in order to add shops
 
-# Screenshots
-![image](https://github.com/ItzJonzey/QB-Inventory-CSS-edit/assets/140835042/f14c3dc2-766d-41d1-94c0-aec5eb89fa32)
+## Screenshots
+![General](https://media.discordapp.net/attachments/620596683474075650/1025814263345975367/unknown.png)
 
 ## Features
 - Item crafting
@@ -391,3 +394,52 @@ Config.AttachmentCrafting = {
         },
     }
 }
+
+BackEngineVehicles = {
+    [`ninef`] = true,
+    [`adder`] = true,
+    [`vagner`] = true,
+    [`t20`] = true,
+    [`infernus`] = true,
+    [`zentorno`] = true,
+    [`reaper`] = true,
+    [`comet2`] = true,
+    [`comet3`] = true,
+    [`jester`] = true,
+    [`jester2`] = true,
+    [`cheetah`] = true,
+    [`cheetah2`] = true,
+    [`prototipo`] = true,
+    [`turismor`] = true,
+    [`pfister811`] = true,
+    [`ardent`] = true,
+    [`nero`] = true,
+    [`nero2`] = true,
+    [`tempesta`] = true,
+    [`vacca`] = true,
+    [`bullet`] = true,
+    [`osiris`] = true,
+    [`entityxf`] = true,
+    [`turismo2`] = true,
+    [`fmj`] = true,
+    [`re7b`] = true,
+    [`tyrus`] = true,
+    [`italigtb`] = true,
+    [`penetrator`] = true,
+    [`monroe`] = true,
+    [`ninef2`] = true,
+    [`stingergt`] = true,
+    [`surfer`] = true,
+    [`surfer2`] = true,
+    [`gp1`] = true,
+    [`autarch`] = true,
+    [`tyrant`] = true
+}
+
+Config.MaximumAmmoValues = {
+    ["pistol"] = 250,
+    ["smg"] = 250,
+    ["shotgun"] = 200,
+    ["rifle"] = 250,
+}
+```
