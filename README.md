@@ -32,7 +32,7 @@
 - [qb-shops](https://github.com/qbcore-framework/qb-shops) - Needed in order to add shops
 
 ## Screenshots
-[image](https://cdn.discordapp.com/attachments/1196239132230418552/1196239132574359613/image.png)
+[image](https://cdn.discordapp.com/attachments/1196239132230418552/1196239132574359613/image.png).
 
 ## Features
 - Item crafting
