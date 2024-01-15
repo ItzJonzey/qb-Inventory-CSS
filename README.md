@@ -11,7 +11,8 @@
 - qb-shops - Needed in order to add shops
 
 # Screenshots
-![image](https://github.com/ItzJonzey/QB-Inventory-CSS-edit/assets/140835042/b1d57b33-a12a-4458-b23f-932f57d44a02)
+![image](https://github.com/ItzJonzey/QB-Inventory-CSS-edit/assets/140835042/f14c3dc2-766d-41d1-94c0-aec5eb89fa32)
+
 
 # Features
 
