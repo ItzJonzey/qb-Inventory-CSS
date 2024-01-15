@@ -3,12 +3,12 @@
 
 
 # Dependencies
-- qb-core
-- qb-logs - For logging transfer and other history
-- qb-traphouse - Trap house system for qbcore
-- qb-radio - Radio system for communication
-- qb-drugs - Drugs and Weed Planting System
-- qb-shops - Needed in order to add shops
+- [qb-core](https://github.com/qbcore-framework/qb-core)
+- [qb-logs](https://github.com/qbcore-framework/qb-logs) - For logging transfer and other history
+- [qb-traphouse](https://github.com/qbcore-framework/qb-traphouse) - Trap house system for qbcore
+- [qb-radio](https://github.com/qbcore-framework/qb-radio) - Radio system for communication
+- [qb-drugs](https://github.com/qbcore-framework/qb-drugs) - Drugs and Weed Planting System
+- [qb-shops](https://github.com/qbcore-framework/qb-shops) - Needed in order to add shops
 
 # Screenshots
 ![image](https://github.com/ItzJonzey/QB-Inventory-CSS-edit/assets/140835042/f14c3dc2-766d-41d1-94c0-aec5eb89fa32)
