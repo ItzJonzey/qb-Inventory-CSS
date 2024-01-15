@@ -9,3 +9,24 @@
 - qb-radio - Radio system for communication
 - qb-drugs - Drugs and Weed Planting System
 - qb-shops - Needed in order to add shops
+
+# Screenshots
+![image](https://github.com/ItzJonzey/QB-Inventory-CSS-edit/assets/140835042/b1d57b33-a12a-4458-b23f-932f57d44a02)
+
+# Features
+
+# Installation
+
+# Manual
+
+- Download the script and put it in the [qb] directory.
+- Import qb-inventory.sql in your database
+- Add the following code to your server.cfg/resouces.cfg
+
+""ensure qb-core
+ensure qb-logs
+ensure qb-inventory
+ensure qb-traphouse
+ensure qb-radio
+ensure qb-drugs
+ensure qb-shops""
